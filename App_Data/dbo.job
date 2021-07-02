@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Job]
+( 
+    [Name] NVARCHAR(50) NOT NULL, 
+    [Jobs] NVARCHAR(50) NOT NULL
+)
